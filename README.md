@@ -1,7 +1,7 @@
 ios-xcode-objc-class-template
 =============================
 
-Simpler, cleaner iOS objective C class template for projects, with Doxygen-style headers, some precompiler pragma marks for better organization, etc.
+Simpler, cleaner iOS objective C class template for Xcode projects, with Doxygen-style headers, some precompiler pragma marks for better organization, etc.
 
 To use:
 
