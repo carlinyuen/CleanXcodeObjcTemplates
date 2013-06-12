@@ -1,10 +1,11 @@
 /**
 	@file	___FILENAME___
-	@brief	___PROJECTNAME___
 	@author	___FULLUSERNAME___
 	@date	___DATE___
-	@brief	___COPYRIGHT___
+	@brief	___PROJECTNAME___
 */
+//___COPYRIGHT___
+
 
 ___IMPORTHEADER_cocoaTouchSubclass___
 
