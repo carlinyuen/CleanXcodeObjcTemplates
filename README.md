@@ -1,5 +1,5 @@
-ios-xcode-objc-class-template
-=============================
+CleanXcodeObjcTemplates
+=======================
 
 Simpler, cleaner iOS objective C class template for Xcode projects, with Doxygen-style headers, some precompiler pragma marks for better organization, etc.
 
