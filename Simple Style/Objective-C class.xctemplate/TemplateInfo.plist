@@ -62,6 +62,7 @@
 				<string>UIViewController</string>
 				<string>UITableViewController</string>
 				<string>UITableViewCell</string>
+				<string>Constants</string>
 			</array>
 		</dict>
 		<dict>

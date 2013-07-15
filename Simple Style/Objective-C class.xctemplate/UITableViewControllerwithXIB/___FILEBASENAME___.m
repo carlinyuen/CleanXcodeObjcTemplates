@@ -56,6 +56,15 @@
 }
 
 
+#pragma mark - UI Setup
+
+
+#pragma mark - UI Events
+
+
+#pragma mark - Utility Functions
+
+
 #pragma mark - UITableView Datasource
 
 /** @brief Return the number of sections. */

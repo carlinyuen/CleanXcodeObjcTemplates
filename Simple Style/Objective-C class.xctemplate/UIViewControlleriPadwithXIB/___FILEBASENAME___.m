@@ -59,10 +59,17 @@
 #pragma mark - Class Functions
 
 
-#pragma mark - UI Event Handlers
+#pragma mark - UI Setup
+
+
+#pragma mark - UI Events
+
+
+#pragma mark - Utility Functions
 
 
 #pragma mark - Delegates
+
 
 
 @end

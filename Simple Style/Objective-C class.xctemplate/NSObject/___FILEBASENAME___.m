@@ -24,5 +24,20 @@
 
 #pragma mark - Class Functions
 
+/** @brief Object being destroyed */
+- (void)dealloc
+{
+	// Cleanup here
+}
+
+
+#pragma mark - Data Management
+
+
+#pragma mark - Utilty Functions
+
+
+#pragma mark - Delegates
+
 
 @end
