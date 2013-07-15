@@ -10,3 +10,10 @@ To use:
   3. Try adding a new file in a project! If you don't see the Simple Style as an option, restart Xcode.
 
 That should be it!
+
+
+License
+-------
+MIT
+
+
